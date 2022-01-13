@@ -1,3 +1,12 @@
+/*
+ * File: app.component.spec.ts
+ * Authors: Hegedus Gyorgy
+ * Copyright: 2022, Hegedus Gyorgy
+ * Group: Szoft II/N
+ * Date: 2022-01-13
+ * Github: https://github.com/Gyuri21
+ * Licenc: GNU GPL
+ */
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
